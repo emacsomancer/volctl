@@ -38,6 +38,10 @@ application. If you're looking for that check out the excellent
 
 Available in AUR: [volctl](https://aur.archlinux.org/packages/volctl/)
 
+### Void Linux
+
+Available in the the Void package repos: [volctl](https://voidlinux.org/packages/?q=volctl)
+
 ## Status/tray icon implementation
 
 volctl strives to achieve a high level of support across different Desktop
